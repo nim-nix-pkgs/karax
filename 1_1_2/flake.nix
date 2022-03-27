@@ -11,6 +11,7 @@
   inputs.src-karax-1_1_2.ref   = "refs/tags/1.1.2";
   inputs.src-karax-1_1_2.owner = "karaxnim";
   inputs.src-karax-1_1_2.repo  = "karax";
+  inputs.src-karax-1_1_2.dir   = "";
   inputs.src-karax-1_1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

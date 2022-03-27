@@ -11,6 +11,7 @@
   inputs.src-karax-1_1_3.ref   = "refs/tags/1.1.3";
   inputs.src-karax-1_1_3.owner = "karaxnim";
   inputs.src-karax-1_1_3.repo  = "karax";
+  inputs.src-karax-1_1_3.dir   = "";
   inputs.src-karax-1_1_3.type  = "github";
   
   inputs."ws".owner = "nim-nix-pkgs";

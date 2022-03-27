@@ -11,6 +11,7 @@
   inputs.src-karax-master.ref   = "refs/heads/master";
   inputs.src-karax-master.owner = "karaxnim";
   inputs.src-karax-master.repo  = "karax";
+  inputs.src-karax-master.dir   = "";
   inputs.src-karax-master.type  = "github";
   
   inputs."ws".owner = "nim-nix-pkgs";
