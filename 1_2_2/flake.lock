@@ -65,7 +65,7 @@
         "dotenv": "dotenv",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-karax-master": "src-karax-master",
+        "src-karax-1_2_2": "src-karax-1_2_2",
         "ws": "ws"
       }
     },
@@ -86,7 +86,7 @@
         "type": "github"
       }
     },
-    "src-karax-master": {
+    "src-karax-1_2_2": {
       "flake": false,
       "locked": {
         "lastModified": 1657124611,
@@ -98,7 +98,7 @@
       },
       "original": {
         "owner": "karaxnim",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.2.2",
         "repo": "karax",
         "type": "github"
       }
